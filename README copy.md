@@ -1,4 +1,4 @@
-# Lung-Cancer-Detection-Using-Python
+# EXTENSIVE LUNG CANCER DIAGNOSTICS W/I IMMUNOTHERAPY
 ## Dataset
 The Cancer Imaging Archive (TCIA)
 http://www.cancerimagingarchive.net/
@@ -31,5 +31,3 @@ Negative case
 ![no cancer image](https://user-images.githubusercontent.com/33830482/42348968-c95ed394-80c8-11e8-8c2e-5f25a61f3ccd.png)
 ![no cancer terminal](https://user-images.githubusercontent.com/33830482/42348970-c9da984e-80c8-11e8-87e0-4afe7dde8bfb.png)
 
-This work was done in partnership with my friend Tarun Bhargav Sriram as a project for Digital Image Processing elective.
-Any queries about the project, contact at vinaybn8997@gmail.com
